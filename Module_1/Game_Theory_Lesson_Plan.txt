@@ -1,0 +1,56 @@
+**MAT001: Game Theory - Lesson Plan**
+
+
+This is a lesson plan for the afternoon ``teaching period'' which aims to cover the Game Theory part of the syllabus of the MAT001: OR Methods MSc module.
+
+The technical content of the module aims to cover the following topics:
+
+- Normal Form Games
+- Pure Nash Equilibrium
+- Mixed Nash Equilibrium
+
+The intended learning outcomes for this module.
+
+On completion of the module a student should be able to:
+
+A) Describe a general appreciation of the ideas of game theory.
+B) Interpret the normal form of a game.
+C) Use ideas such as common knowledge of rationality and dominance to identify dominated strategies.
+D) Identify best responses to certain strategies in games.
+E) Use the two above skills to identify pure Nash equilibria in games.
+F) Describe the basic ideas of mixed strategies.
+G) Compute mixed strategy equilibria using the equality of payoffs theorem.
+H) Describe an appreciation of the relationship of state of the art research and the topics they have learnt.
+
+Lesson plan (indicating the ILO that this should be addressing):
+	Before:
+		Invite students to look at videos:
+			EU-EMS Interface [A,H]
+			Introduction to mixed strategies [A,H]
+
+	During:
+		0-20 mins: 2/3rds of average gamte [A,C,D,E]
+		20-40 mins: Lecture on Normal Form Games and Pure Strategies [B,C,D,E]
+		40-50 mins: Break?
+		50-80 mins: PD tournament [A,D,E]
+		80-100 mins: Lecture on MS [F,G]
+		100-130 mins: Sage lab (2 by 2) [F,G]
+		130-140 mins: Break
+		140-    mins: Tutorial session [A,B,C,D,E,F,G]
+	After:
+		Tutorial Sheets [A,B,C,D,E,F,G]
+		Invite students to other videos:
+			PD videos [H]
+			Pigou's example video (VK to make?) [H]
+
+Assessment:
+The above ILO would be assessed as part of the wider assessment for MAT001: part of the exam. This type of assessment is well suited to the subject area as it will allow for evaluation of each ILO.
+
+
+Comments:
+This lesson plan is designed in such a way as to ensure that most learning styles will be catered for. Indeed students are initially introduced to Game Theory through a game itself. This should allow students to be put in the place of a decision maker and thus allow for the more complex concepts to be easier to understand. Furthermore, it is hoped that this will relax students and make way for better students participation throughout the course.
+
+To complement the two participation activities there are two breaks scheduled which are put in place to ensure that students won't be tired and their concentration will not falter. Apart from these activities information will also be delivered through two short lectures and there is also a group exercise scheduled which will hopefully invite peer learning. This exercise is intentionally different to all other learning exercises presented in this period. It makes use of programming and relates to a video that students will hopefully watch before the lecture.
+
+Finally there is a tutorial session scheduled that will allow for students to carry out classical pen and paper exercises which should help them prepare for the exam. This tutorial will be taken by 2 postgraduate students to hopefully offer a different perspective however I will still be present in case I am needed.
+

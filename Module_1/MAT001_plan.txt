@@ -1,0 +1,103 @@
+Subjects (6~7):
+
+- Decision Analysis
+- Game Theory
+- Reliability Theory
+- Inventory Theory
+- (Markov Chains)?
+- Queueing Theory
+- Project Management
+
+Lectures:
+
+4 days of lectures, scheduled from 0900 to 1700.
+
+Day 1:
+
+Decision Analysis:
+	Maxmin etc...
+	Decision Trees
+	Bayes Theorem
+	Utility Theory
+
+(Think about lectures, lab session, games?, sage sheet?, videos?, case study?)
+
+Schedule:
+	Before:
+		Invite students to revise basic probability
+		Invite students to view video on subject (VK to find/make)
+		Maybe make short video + sage interact looking at a simply DT with Bayes theorem
+
+	During:
+		0-10 mins: Introductory lecture setting out rules and expectations of students:
+			Discuss with learning with students
+			Expectation for class participation (justified by above)
+			Discuss learning outcomes and assessments
+			Introduce LS+AF perhaps?
+			Show website (explain that for my part of the module, content on LC is not as up to date or reliable as content on my website "don't look at LC for this part of the module")
+		10-30 mins: Figure out some sort of group game perhaps? Get students to fill in decisions perhaps?
+		30-50 mins: Lecture on decision trees?
+		50-60 mins: Break
+		60-80 mins: Bayes Theorem group game?
+		80-90 mins: Lecture on Bayes Theorem?
+		90-100 mins: Example of exercise making use of Bayes Theorem?
+		100-110 mins: Break
+		110-130 mins: Utility Theory Game?
+		130-140 mins: Utility Theory Lecture
+		140-180 mins: Utility Theory Lab session (need to check that precision tree still works ok)
+
+
+
+	After:
+		Tutorial Sheet
+		Invite students further reading on DA
+
+Game Theory:
+	Normal form games
+	Pure Strategies
+	Mixed Strategies
+
+Schedule:
+	Before:
+		Invite students to look at videos:
+			EU-EMS Interface
+			Introduction to mixed strategies
+
+	During:
+		0-20 mins: 2/3rds of average gamte
+		20-40 mins: Lecture on Pure Strategies
+		40-50 mins: Break?
+		50-80 mins: PD tournament
+		80-100 mins: Lecture on MS
+		100-130 mins: Sage lab (2 by 2)?
+		130-140 mins: Break
+		140-    mins: Tutorial session
+	After:
+		Invite students to some research papers
+		Tutorial Sheets
+		Invite students to other videos:
+			PD videos
+			Mixed strategies videos
+			Pigou's example video (VK to make?)
+
+Reliability Theory:
+	Reliability
+	Collection of components
+	Planned replacement
+
+Schedule:
+	Before:
+		Invite students to read?
+		Invite students to look at videos?
+			General Integration video
+			General Pdf video
+	During:
+		0-10 mins: Demo of reliability program?
+		10-30 mins: Lecture to calculate reliability of a component
+		30-40 mins: Break
+		40-90 mins: Demo of collection of components?
+		90-110 mins: Lecture on collection of components
+		110-120 mins: Demo of planned replacement
+		120-180 mins: Sage lab
+
+	After:

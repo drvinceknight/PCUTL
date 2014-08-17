@@ -1,0 +1,217 @@
+
+Notes from second day (13/9/2012)
+
+Missed the first day due to LANCS Leadership workshop.
+
+Suggest to look at Infed website: www.infed.org. (This has something to do with 'Kolb' Cycle - I missed this)
+
+There is a language to teaching in higher ed. Good to learn.
+
+*Concepts of learning of teaching*
+
+*Share examples of good teaching you have experienced:
+
+Our table:
+- Passion + Expertise (***)
+- Student lead when possible, involvement
+- Understand students
+
+Other tables:
+- Appropriate mix of structure and freestyle
+	Students like structured lessons. If they miss something they can get back on board. Structure gives learners confidence.
+- Good use of visual aids - variety of visual aids.
+- Characteristics of actual teacher:
+	- enthusiasm (this is a code word that students use to describe good teachers)
+		- Installs enthusiasm in students
+		- Make class lively and engaged
+		- Interest in subject
+	- approachability
+		- Welcome questions during lecture
+		- Welcome questions after lecture (?)
+	- open body language
+	- Eccentricity (?)
+	- Genuine
+	- Fun
+- Quantity, simplicity matters.
+
+*What would you want your students to think you value most in your teaching?
+- Their understanding.
+- "Teach them how to fish and not give them a fish."
+
+
+*What conceptions do you think academic staff hold when considering the word teaching?
+- Delivery of knowledge (I don't agree)
+- Delivery of understanding
+
+I think this depends on the content - are you teaching:
+	- how? (understanding)
+	- what? (facts - knowledge)
+
+Someone just raised the issue of employability... Very good point...
+
+Long discussion about nurses needed to update. This is obviously different to consultants...
+
+*What conceptions do students have of the word "learning"?
+- Getting recipes
+- Memorising
+- Dependant on task:
+	- Factual issue? (recall)
+	- Skill? (can I do it?)
+- Student just wants to pass an exam
+
+We've been given a small synthesis on a whole body of research of students conceptions of learning.
+
+*Approaches to learning*
+
+How do you think students go about learning something that matters to them, that is important or significant for them?
+- Engage
+- Personal investment
+
+
+And how do you think students go about learning something what they don't think will matter for long, for example just an exam or a test?
+- Strategy
+- Cramming
+- Goal orientated learning
+- Will it come up in the exam?
+
+	Driving force is "fear of failure"
+
+Strategic learning can be very effective (also can not). - See "The approaches to studying inventory" handout.
+
+We have discovered that the above is not a set of personnel characteristics according to the way we design courses. We can design a course that ensures students take a surface approach:
+	- Too much info
+	- No opportunity for feedback
+	- No discusses
+	- 1 big bang assessment
+Conversely, the opposite should ensure that the students take a deep approach.
+
+This shows the importance of good course design. Very hefty message.
+
+Need to separate perceptions and interest of students:
+	Show them that it's in their interest to learn the above.
+	Student perception is an astoundingly powerful concept.
+
+Thinking about how we learn and how we teach.
+	(we're going to go over the inventories that we filled in earlier)
+
+See Coffield et al (2004). Wrote a critic of the burgeoning use of teaching inventories. Main critique was due to lack of empirical evidence.
+
+Learning inventory scores:
+	Rezler: sets out preferences for different learning environments.
+	Assist: Explores your approaches to learning, i.e. deep, surface or strategic
+	Locus of control: personal view of ability to control the academic environment
+
+Are you?
+
+1 - Concrete + teacher structured (Rezler) plus have a fear of failure (Assist) and an external locus of control?
+OR
+2- Abstract (Rezler) with little fear of failure (Assist) and an internal locus of control?
+
+My results say:
+
+I'm very student structured with an internal locus of control. It seems I'm also a deep learner. So I'm more of a 2 (see above).
+
+This is very fluffy now... I have no idea if I'm teacher centred or learner centred...
+
+Think about this when writing lesson plan for this module...
+
+Also important to keep in mind the societal and educational issues that are outside of the classroom. The effect of society on learning...
+
+Just had a chat with an ENT surgeon re his teaching inventory. Not that interesting or insightful. He did say that as a medic, his teaching was very different, practice practice practice.
+
+
+Smyth (1987) poses some questions for teachers:
+
+1 - What do my practices say about my assumptions, values and beliefs about teaching?
+2 - Were did these come from?
+3 - Whose interests seem to be served by my practices?
+
+So what now? Possible next steps
+- Try lecture capture
+- Articles on learning central
+- Try Cardiff's open access learning reflection questionnaire
+- Start your second journal [Second???!! - I need to ask about this.]
+
+*Issues in Higher Education - Prof Patricia Price, Pro VC, Student experience and Academic Standards*
+
+What does a PVC for student experience and academic quality do?
+
+We said:
+	pro means "on behalf of"
+	NSS?
+	pastoral care
+	teaching and learning
+	teaching
+	unified strategy for education
+	talk to students
+	inclusive environment
+
+Her job description:
+	The development of the university's education strategy
+	The quality of student experience at Cardiff
+		NSS
+		undergrads, postgrads
+		ensuring that student voice is heard in how we review our courses
+	The university's student recruitment and admission
+	Oversight of the university graduate college
+	Programme approval and review
+	Assessment
+	Quality assurance and enhancement
+	Academic appeals and student complaints
+	Widening access activities
+	Student employability
+	Learning resources
+	Pedagogic practice
+
+Our questions:
+	E-learning:
+		Mentioned coursera and udacity and no-one really knew about it... lol...
+
+*Learning outcomes and module documents*
+
+We had a very "wish washy" discussion about 1 of 7 categories when it comes to how we want students to change:
+
+1 - Knowledge
+2 - Subject specific skills
+3 - Generic skills
+4 - Attitutdes
+5 - Values
+6 - Behaviour
+7 - Other?
+
+From a scientific point of view there wasn't much to say re 4-7... 1 guy from journalism had a very long chat about values bla bla bla
+
+*Considering learning outcomes*
+
+A learning outcome is a description of what you want a student to be able to do as a result of studying that module.
+
+An example of a learning outcome for MAT001:
+
+	As a result of completing this module, the student would be able to choose and apply the correct mathematical technique when presented with a real world problem. [Evaluated via exam question for example]
+
+This approach to designing courses places a huge emphasis on the assessment process.
+
+Confirming the idea that Universities are certification places...
+
+Look at Biggs book (online)
+
+Cardiff university describes it's program as "assessment lead" => this implies that Universities are just certification places.
+
+Working with module guides:
+
+If you are "inheriting a module". Working with module guide. Get real module guides. Determine the level of the module, and therefore the general standards expected from the Welsh framework. Investigate assessment practices, and therefore if you will be using standards referenced against criteria, or against norms, or both.
+
+Assessment against norms:
+	take 1 student and make them an A and work down from there...
+	or
+	take same course last year and compare...
+
+"When higher education goes bang it will go bang about it's assessment processes. They are not good."
+
+Must discuss all this with students... Discuss criteria and standards...
+
+"At the very least discuss with students your learning outcomes, assessment criteria and standards. At very best get students to design outcomes, criteria and standards."
+
+We have been given a document about something...
+
+I have no longer got any idea as to whether "learning" outcomes are a good or bad thing...

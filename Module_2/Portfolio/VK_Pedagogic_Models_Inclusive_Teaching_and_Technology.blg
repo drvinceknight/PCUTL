@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: VK_Pedagogic_Models_Inclusive_Teaching_and_Technology.aux
+The style file: plain.bst
+Database file #1: mathed.bib.bib
+Warning--empty year in Aristotlea
+Warning--empty journal in Bates
+Warning--empty year in Bates
+Warning--empty journal in Cousin2006
+Warning--there's a number but no volume in Cousin2006
+Warning--empty journal in Horstmanshof
+Warning--there's a number but no volume in Horstmanshof
+Warning--empty school in JeremyF.Strayer2007
+Warning--empty note in Framework2007
+Warning--empty journal in Mccombs2007
+Warning--empty institution in Meyer2003
+Warning--empty year in Platoa
+Warning--empty institution in Sharples2012
+Warning--empty institution in Shorser1999
+Warning--there's a number but no volume in Wilkinson2011
+You've used 25 entries,
+            2118 wiz_defined-function locations,
+            641 strings with 7717 characters,
+and the built_in function-call counts, 6287 in all, are:
+= -- 579
+> -- 291
+< -- 0
++ -- 117
+- -- 92
+* -- 373
+:= -- 1125
+add.period$ -- 73
+call.type$ -- 25
+change.case$ -- 113
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 264
+empty$ -- 517
+format.name$ -- 92
+if$ -- 1267
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 29
+newline$ -- 126
+num.names$ -- 50
+pop$ -- 171
+preamble$ -- 1
+purify$ -- 96
+quote$ -- 0
+skip$ -- 156
+stack$ -- 0
+substring$ -- 219
+swap$ -- 18
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 80
+warning$ -- 15
+while$ -- 58
+width$ -- 27
+write$ -- 248
+(There were 15 warnings)
